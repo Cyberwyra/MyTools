@@ -14,12 +14,12 @@ echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
+echo $i" |"$pu" AUTHOR :"$ku" Samsul ma'arif"$i"          |"
+echo $i" |"$pu" FACEBOOK :"$ku" Cyberwyra"$i"                   |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 085835787069"$i"             |"
-echo $i" |"$pu" Contack Gmail :"$ku" dermawan0858@gmail.com"$i"      |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" 085893944010"$i"             |"
+echo $i" |"$pu" Contack Gmail :"$ku" samsulfnkgroup@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
@@ -221,7 +221,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-https://github.com/evait-security/weeman.git
+git clone https://github.com/evait-security/weeman.git
 chmod +x *
 python2 weeman.py
 fi
@@ -255,8 +255,8 @@ echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
 sleep 2
-echo $ku"WhatsApp :"$i" 085835787069"
-echo $ku"Facebook :"$i" Riski Darmawan"
+echo $ku"WhatsApp :"$i" 085893944010"
+echo $ku"Facebook :"$i" samsul ma'arif"
 sleep 2
 echo $pur">> Thanks Yang Sudah Support Saya <<"
 exit
