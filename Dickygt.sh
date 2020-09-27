@@ -52,10 +52,10 @@ echo $me"       ¶¶¶¶                                     ¶¶¶¶"
 echo
 echo
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo $i  "AUTHOR   : DICKY FEBRIAN"
-echo $i  "WA       : 085707706430"
-echo $i  "YOUTUBE  : DICKY GT"
-echo $i  "TOOLS    : INSTALLER (7 TOOLS)"
+echo $i  "AUTHOR    : Cyberwyra"
+echo $i  "WA        : 085893944010"
+echo $i  "facebook  : Cyberwyra"
+echo $i  "TOOLS     : INSTALLER (7 TOOLS)"
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
 echo
@@ -79,7 +79,7 @@ echo $cy "[8]"$me" EXIT"
 echo "=================================================="
 echo
 echo
-echo $cy"┌==="$bi"[ DICKY GT ]"
+echo $cy"┌==="$bi"[ Cyberwyra ]"
 echo $cy"¦"
 read -p">>>" pil;
 
@@ -151,7 +151,7 @@ echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Bug  Bisa Nanya Kepada Saya"
 sleep 2
-echo $i"WhatsApp :"$i" 085707706430"
-echo $bi"Facebook :"$i" Dicky Febrian"
+echo $i"WhatsApp :"$i" 085893944010"
+echo $bi"Facebook :"$i" samsul ma'arif"
 exit
 fi
