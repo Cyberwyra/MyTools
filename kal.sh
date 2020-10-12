@@ -30,7 +30,7 @@ load(){
         n=$((i*barlength / 100))
         printf "\e[00;34m\r[%-${barlength}s]\e[00m" "${bar:0:n}"
         ((i += RANDOM%1+1))
-        sleep 0.02
+        sleep 0.01
     done
 }
 
@@ -124,6 +124,8 @@ printf "siapa nama kaka? \n$C"
 read siapa
 sleep 0.80
 echo " "
+printf "$G[selamat datang kha $C$siapa]"
+sleep 0.90
 printf "$G[operator dalam tools ini adalah]"
 echo " "
 echo "[1] penjumlahan"
@@ -143,7 +145,7 @@ printf "${Y}bilangan ke 2 =[ "
 read b
 printf "${G}operator  =[ "
 read c
-printf "$R===========[>${Y}JAWABAN$R<]==========="
+printf "$R===========[>${Y}JAWABAN$R<]============"
 echo "  "
 sleep 0.80
 if [ $c = 1 ]
