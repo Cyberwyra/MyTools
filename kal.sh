@@ -126,6 +126,7 @@ sleep 0.80
 echo " "
 printf "$G[selamat datang kha $C$siapa]"
 sleep 0.90
+echo "  "
 printf "$G[operator dalam tools ini adalah]"
 echo " "
 echo "[1] penjumlahan"
